@@ -1,12 +1,52 @@
-# React + Vite
+# 💪 VitalVibe – Health & Fitness Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VitalVibe is a React-based fitness and wellness web application designed to help users track workouts, monitor health habits, and stay consistent with daily fitness goals.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+• Workout tracking dashboard  
+• Clean and modern UI  
+• Health & wellness monitoring  
+• Motivational and productivity-focused design  
+• Built using React + Vite for fast performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React JS
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Setup
+
+Clone the repository:
+git clone https://github.com/Pranav300806/vitalvibe.git
+
+Install dependencies:
+npm install
+
+Run the project:
+npm run dev
+
+---
+
+## 🌟 Future Improvements
+
+- User authentication (login/signup)
+- Database integration
+- Diet & calorie tracking
+- Mobile responsive design
+- Dark mode
+
+---
+
+## 👨‍💻 Author
+
+**Pranav**
